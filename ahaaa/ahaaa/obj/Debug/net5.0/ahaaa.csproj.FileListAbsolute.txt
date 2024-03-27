@@ -1,0 +1,16 @@
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\bin\Debug\net5.0\ahaaa.exe
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\bin\Debug\net5.0\ahaaa.deps.json
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\bin\Debug\net5.0\ahaaa.runtimeconfig.json
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\bin\Debug\net5.0\ahaaa.runtimeconfig.dev.json
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\bin\Debug\net5.0\ahaaa.dll
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\bin\Debug\net5.0\ahaaa.pdb
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.AssemblyInfoInputs.cache
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.AssemblyInfo.cs
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.sourcelink.json
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.dll
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\refint\ahaaa.dll
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.pdb
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ahaaa.genruntimeconfig.cache
+C:\Users\hallgato\Documents\valaminek\ahaaa\ahaaa\obj\Debug\net5.0\ref\ahaaa.dll
