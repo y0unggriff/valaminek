@@ -10,7 +10,11 @@ namespace ConsoleApp1
 
             for (int i = 0; i <= number; i++)
             {
-                
+                Console.Write(i);
+                if (i < number)
+                {
+                    Console.Write(", ");
+                }
             }
         }
     }
